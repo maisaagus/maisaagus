@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/5qII4FPBe5aqQ/giphy.gif" width="200" />
-  <h1 align="center">I'm CiroSSJ</h1>
+  <h1 align="center">I'm Agus Maisa</h1>
   <h3 align="center">Passionate about programming and student born in Argentina, I'm new to programming but I really like it.</h3>
 </div>
 
@@ -24,23 +24,23 @@
 
 - 👤 I'm regularly on Discord
 
-- 👤 ask me about **html, cryptography and discord**
+- 👤 ask me about **html, cryptography and ruby**
 
-- 👤 contact me on discord sk4yx#1111
+- 👤 contact me on discord ####
 
 - 👤 I'm currently learning **javascript, python and discord.js**
 
 <div align="left">
     <h3>Languages and Frameworks:</h3>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,ruby,php,go,discord,jquery,nodejs,rails" />
+<img src="https://skillicons.dev/icons?i=ruby,cryptography,rails,sass,html,python,react,css" />
 </div>
     
 -  -  -
     
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssjciro&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maisaagus&theme=dark&hide_border=true)](https://git.io/streak-stats)
     
-![ssjciro GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![maisaagus GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
