@@ -33,7 +33,7 @@
 <div align="left">
     <h3>Languages and Frameworks:</h3>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=ruby,fernet,rails,sass,html,python,react,css" />
+<img src="https://skillicons.dev/icons?i=ruby,cryptography.fernet,rails,sass,html,python,react,css" />
 </div>
     
 -  -  -
